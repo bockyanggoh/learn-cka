@@ -11,3 +11,4 @@ Default namespace is used if no namespace is specified
 ```kubectl get pods --namespace my-namespace```
 
 ```kubectl create namespace my-namespace```
+
